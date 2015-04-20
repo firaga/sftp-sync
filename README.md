@@ -1,5 +1,6 @@
 # sftp-sync
-write config file like this. This plugin is use for myself to user now,with a lot of bug may be,you can fix it yourself.I will edit it later. Or see this https://github.com/eshion/vim-sftp-sync
+write config file like this. This plugin is use for myself to user now,with a lot of bug may be,you can fix it yourself.I will edit it later. Or see this url where I edit from.
+https://github.com/eshion/vim-sftp-sync
 "user config                                                                                              
 let s:host1=''
 let s:host2=''
